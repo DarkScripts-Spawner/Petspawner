@@ -1,2 +1,2 @@
-wait("0.2")
+print ("2")
 loadstring(game:HttpGet("https://pastefy.app/ENCS7V7J/raw"))()
